@@ -22,6 +22,6 @@ Bu proje iki uygulamadan oluşmaktadır. Beckend tarafı Spring Boot Rest API'si
 - LinkedIn: [Can Aktas](www.linkedin.com/in/cnaktas)
 
 
-### Bu repo www.patika.dev and kodluyoruz.org tarafından düzenlenen 6 Aylık Fullstack  Developer Eğitimi kapsamında oluşturuldu.
+### Bu repo patika.dev and kodluyoruz.org tarafından düzenlenen 6 Aylık Fullstack  Developer Eğitimi kapsamında oluşturuldu.
 
 
