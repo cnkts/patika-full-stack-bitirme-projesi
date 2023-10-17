@@ -1,0 +1,28 @@
+.menuMain {
+    width: 220px;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: 600px;
+    font-size: 12pt;
+    margin: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.menuMain a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+.menuMain a.active {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(144, 149, 155);
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+
+
+}
